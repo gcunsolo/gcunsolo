@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://app.daily.dev/peqpe"><img src="https://github.com/gcunsolo/gcunsolo/blob/master/devcard.svg" width="400" alt="Giuseppe Cunsolo's Dev Card"/></a>
+<a href="https://app.daily.dev/peqpe"><img src="https://github.com/gcunsolo/gcunsolo/blob/main/devcard.svg" width="300" alt="Giuseppe Cunsolo's Dev Card"/></a>
 
 <!--
 <a href="https://app.daily.dev/peqpe"><img src="https://api.daily.dev/devcards/e1ac8d19ca034ca8823e6375194d0b4f.png?r=lzd" width="400" alt="Giuseppe “peqpe” Cunsolo's Dev Card"/></a>
